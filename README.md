@@ -4,7 +4,7 @@
 ![Docker](https://img.shields.io/badge/Docker-Enabled-blue)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue)
 ![Pytest](https://img.shields.io/badge/Tests-Pytest-green)
-![CI](https://github.com/yourusername/etl-weather-pipeline/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/snushev/etl-weather-pipeline/actions/workflows/ci.yml/badge.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ETL Weather Pipeline is a **Python-based ETL project** that extracts live weather data from the **OpenWeather API**,  
@@ -154,3 +154,4 @@ This project is licensed under the **MIT License** — feel free to use and modi
 ---
 
 Made with ❤️ by [Your Name](https://github.com/yourusername)
+
